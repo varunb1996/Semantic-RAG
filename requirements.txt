@@ -1,3 +1,25 @@
 requests
 python-dotenv
+
+# Scraping
+beautifulsoup4
+lxml
+
+# Data handling
+pandas
+numpy
+
+# Embeddings
+sentence-transformers
+torch
+
+# API
+fastapi
+uvicorn
+
+# UI
+streamlit
+
+# Optional (but useful)
+tqdm
 scikit-learn
