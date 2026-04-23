@@ -27,7 +27,7 @@ advanced-semantic-rag/ │ ├── data/ │   ├── raw/                #
 
 ### 1. Clone Repo
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/varunb1996/Semantic-RAG.git
 cd advanced-semantic-rag
 
 Create virtual environment 
