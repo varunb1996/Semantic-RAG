@@ -7,7 +7,7 @@ An end-to-end Semantic RAG pipeline that scrapes real-world data, processes it i
 ## 🔧 Features
 
 - Web scraping from real sources (Wikipedia / tech docs)
-- Text cleaning + chunking for large documents
+- Text cleaning + chunking
 - Embedding generation (Sentence Transformers)
 - Vector database for semantic search
 - Metadata-aware retrieval
